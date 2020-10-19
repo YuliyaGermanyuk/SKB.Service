@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SKB.Service", "SKB.Service\SKB.Service.csproj", "{23E12AA5-E5E5-4E9D-93D0-29F78D4CB52F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SKB.Service.Scripts", "SKB.Service.Scripts\SKB.Service.Scripts.csproj", "{3335A51C-F0B6-4A2A-9FB5-0713061A959B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{23E12AA5-E5E5-4E9D-93D0-29F78D4CB52F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23E12AA5-E5E5-4E9D-93D0-29F78D4CB52F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23E12AA5-E5E5-4E9D-93D0-29F78D4CB52F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23E12AA5-E5E5-4E9D-93D0-29F78D4CB52F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3335A51C-F0B6-4A2A-9FB5-0713061A959B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3335A51C-F0B6-4A2A-9FB5-0713061A959B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3335A51C-F0B6-4A2A-9FB5-0713061A959B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3335A51C-F0B6-4A2A-9FB5-0713061A959B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
